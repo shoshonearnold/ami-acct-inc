@@ -32,5 +32,8 @@
   "workspaceLayout": {
     "appsDir": "projects",
     "libsDir": "projects"
+  },
+  "cli": {
+    "analytics": "bd37ec31-c547-45a5-9293-37515944aad2"
   }
 }
